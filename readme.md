@@ -2,7 +2,7 @@
 Simple Wordpress plugin that enables a CDN url for your enqueued styles and scripts throughout your site. This is completely free and can be white labeled as needed.
 
 ## Requirements
-- Wordpress Installed (Versions untested, but this was tested on the latest).
+- Wordpress Installed (This was tested on the latest).
 - PHP 7.0+ (Should work on 5.6, but you shouldn't be running it)
 
 ## Installation
